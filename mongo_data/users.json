@@ -1,0 +1,1 @@
+[{"_id":{"$oid":"68d625290ff4220ecb5dfc5a"},"name":"Alice Doe","email":"alice@example.com","password_hash":"hashed123","role":"dealer","created_at":{"$date":"2025-09-26T05:31:21.527Z"}},{"_id":{"$oid":"68d625290ff4220ecb5dfc5b"},"name":"Bob Smith","email":"bob@example.com","password_hash":"hashed456","role":"dealer","created_at":{"$date":"2025-09-26T05:31:21.527Z"}}]
